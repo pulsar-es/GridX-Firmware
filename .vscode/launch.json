@@ -12,8 +12,8 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
-            "executable": "c:/Users/hasheela/Desktop/ReactTutorials/GridX-Firmware/.pio/build/megaatmega2560/firmware.elf",
-            "toolchainBinDir": "C:/Users/hasheela/.platformio/packages/toolchain-atmelavr/bin",
+            "executable": "c:/Users/hasheela/Desktop/ReactTutorials/GridX-Firmware/.pio/build/esp wrover kit/firmware.elf",
+            "toolchainBinDir": "C:/Users/hasheela/.platformio/packages/toolchain-xtensa32/bin",
             "preLaunchTask": {
                 "type": "PlatformIO",
                 "task": "Pre-Debug"
@@ -24,8 +24,8 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
-            "executable": "c:/Users/hasheela/Desktop/ReactTutorials/GridX-Firmware/.pio/build/megaatmega2560/firmware.elf",
-            "toolchainBinDir": "C:/Users/hasheela/.platformio/packages/toolchain-atmelavr/bin",
+            "executable": "c:/Users/hasheela/Desktop/ReactTutorials/GridX-Firmware/.pio/build/esp wrover kit/firmware.elf",
+            "toolchainBinDir": "C:/Users/hasheela/.platformio/packages/toolchain-xtensa32/bin",
             "internalConsoleOptions": "openOnSessionStart"
         }
     ]
